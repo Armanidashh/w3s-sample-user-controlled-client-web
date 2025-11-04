@@ -19,7 +19,7 @@
     "@mui/joy": "^5.0.0-beta.32",
     "axios": "^1.7.4",
     "next": "14.2.32",
-    "next-auth": "^4.24.6",
+    "next-auth": "^4.24.12",
     "react": "^18",
     "react-dom": "^18",
     "react-hook-form": "^7.50.0",
